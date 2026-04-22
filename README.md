@@ -1,4 +1,5 @@
 # Food-Delivery-Analysis
+<img width="2138" height="926" alt="Screenshot (7333)" src="https://github.com/user-attachments/assets/5c05d8cc-6bc6-448e-b5c9-7903d76f18ef" />
 
 I developed a Food Delivery Analysis Dashboard using simulated data to practice data analysis and visualization skills.
 
